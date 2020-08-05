@@ -3,7 +3,7 @@ Usage:
 
 🐟
 
-    go install github.com/tuxcanfly/stakefish
+    go get github.com/tuxcanfly/stakefish
 
 Command:
 
